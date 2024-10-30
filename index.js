@@ -1,3 +1,5 @@
+//UNUSABLE
+
 import { InfiniteCalculator } from "./src/class/calc";
 
 InfiniteCalculator.add("1+1")
