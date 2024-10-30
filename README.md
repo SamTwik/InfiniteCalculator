@@ -3,7 +3,7 @@ A simple way to do infinite calculations in a quick way.
 
 # Addition
 
-This way can be faster than adding using console.log(Value1+Value2)
+This way can be faster than adding using Value1+Value2
 
 ![](http://i.imgur.com/pmeBr28.png)  
 
