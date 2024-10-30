@@ -5,7 +5,7 @@ A simple way to do infinite calculations in a quick way.
 
 This way can be faster than adding using Value1+Value2
 
-![](http://i.imgur.com/KqTVKJM.png)  
+![](http//i.imgur.com/8HLy1WP.png)  
 
 Code Used:
 
