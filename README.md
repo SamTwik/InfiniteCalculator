@@ -5,7 +5,7 @@ A simple way to do infinite calculations in a quick way.
 
 This way can be faster than adding using Value1+Value2
 
-![]([http://i.imgur.com/pmeBr28.png](https://i.imgur.com/99nHOYU.png))  
+![]([https://i.imgur.com/99nHOYU.png])  
 
 Code Used:
 
@@ -23,7 +23,7 @@ export function basicTest() {
     let laterTime2 = Date.now()
 
     console.log("Normal Time:")
-    console.log(laterTime2-startTime2)
+    console.log(laterTime-startTime)
 
     console.log("InfiniteCalculator Time:")
     console.log(laterTime2-startTime2)
