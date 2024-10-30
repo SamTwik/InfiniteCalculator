@@ -1,0 +1,13 @@
+{
+  "name": "infinitecalculator",
+  "version": "0.1.1",
+  "description": "A way to do large calculations quickly.",
+  "main": "./src/class/calc.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "SamTwik",
+  "license": "ISC"
+}
